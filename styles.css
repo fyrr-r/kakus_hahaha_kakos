@@ -1,0 +1,49 @@
+h1 {
+    font-family: impact;
+    color:#B61A09;
+    padding-right: 50%;
+    position: center;
+    text-align: center;
+}
+
+body {
+    background-color: #101112;
+    font-family: Arial, sans-serif;
+}
+
+.eto-sonnenkiy {
+    margin-top: 5%;
+    color: #D6D6DC;
+    width: 30%;
+    background-color: #141414;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.header-caption {
+    padding-right: 50%;
+    color: #68696C;
+    font-size: 0.8rem;
+    font-style: italic;
+    text-align: center;
+}
+
+.image-container {
+    text-align: center;
+    justify-items: auto;
+}
+image.container img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
+.image-container figcaption {
+    padding-top: 0px;
+    color: #68696C;
+    font-size: 0.8rem;
+    font-style: italic;
+    text-align: center;
+}
